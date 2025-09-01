@@ -1,0 +1,10 @@
+Input:
+- Item price
+- Discount percent (decimal form)
+
+Process:
+- Compute discount amount = price * discount percent
+- Compute discounted price = price - discount amount
+
+Output:
+- Display discount amount and discounted price

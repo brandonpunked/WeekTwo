@@ -1,0 +1,9 @@
+Input:
+- Quantity
+- Unit price
+
+Process:
+- Compute extended price = quantity * unit price
+
+Output:
+- Display extended price

@@ -1,0 +1,9 @@
+Input:
+- Last name
+- Credits taken
+
+Process:
+- Compute tuition = credits * 250 + 100
+
+Output:
+- Display last name and tuition

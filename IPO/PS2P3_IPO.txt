@@ -1,0 +1,10 @@
+Input:
+- Length
+- Width
+
+Process:
+- Compute area = length * width
+- Compute circumference = 2 * length + 2 * width
+
+Output:
+- Display area and circumference

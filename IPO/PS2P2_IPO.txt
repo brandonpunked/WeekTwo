@@ -1,0 +1,10 @@
+Input:
+- Last name
+- Hours worked
+- Pay rate
+
+Process:
+- Compute gross pay = hours * rate
+
+Output:
+- Display last name and gross pay
